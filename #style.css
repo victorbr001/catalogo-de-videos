@@ -7,4 +7,9 @@ border-bottom: solid 2px rgb(195, 255, 0);
 padding: 20px;
 font-size: 32px;
 color: rgb(246, 0, 0);
+
+}
+
+section {
+background: rgb(255, 140, 0);
 }
